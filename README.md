@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 My name is Dmitry Selivanov, I'm a Back-end developer from Ufa (Russia).
-- :telescope:I worked as a backend developer at Digital Virtual Assistants, a software development company in the field of emergency services.
+- :telescope:I worked as a backend developer at Digital Virtual Assistants, a software development company in the field of emergency services. Currently open to new challenges and opportunities.
 - :mortar_board:I am a 4th year student at UUST, specialty - applied computer science.
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-dimanitto-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dimanitto)
 
